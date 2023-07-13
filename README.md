@@ -28,8 +28,8 @@ Here are some ideas to get you started:
  
 <!-- ======================================= -->
  
-* 😄Read more about my [CSDN](https://xiaoli287.blog.csdn.net/)
-* 👯Follow me on [Twitter](https://twitter.com/xiaoli287), [掘金](https://juejin.cn/user/2858385963749223) or [知乎](https://www.zhihu.com/people/xiaoli287)
+* 😄Read more about my.
+* 👯Follow me on.有朋自远方来，不亦悦乎.
  
 <!-- https://readme-typing-svg.demolab.com/demo/ -->
  
